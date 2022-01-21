@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PoweropConfig(AppConfig):
+class DataentryConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'powerop'
+    name = 'dataentry'
